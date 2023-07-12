@@ -27,7 +27,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.linkpos.fullscreen
+        package: com.hustlance.fullscreen
         pluginClass: FullscreenPlugin
       ios:
         pluginClass: FullscreenPlugin
